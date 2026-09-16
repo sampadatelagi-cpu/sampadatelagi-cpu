@@ -1,4 +1,4 @@
-### Hi, I'm Sam 👋
+### Hi, I'm Sampada Telagi 👋
 
 CS + Cell & Molecular Biology at Barnard College, Columbia University — building software at the intersection of the two, with the goal of making healthcare and research more reachable for people without deep technical training or lab access.
 

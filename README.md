@@ -12,7 +12,7 @@ I'm drawn to projects where the code has to answer to something real — a diagn
 
 ### 🏆 Currently
 
-- Selected for **HackMIT 2026** — building LENS, an LLM-based misconception-detection tutor, with a 4-person team
+- Selected for **HackMIT 2026** — built LENS, an LLM-based misconception-detection tutor, with a 4-person team
 - Research background in molecular docking and computational biology, University of Agricultural Sciences, Bangalore
 
 ### 🧭 Focus
